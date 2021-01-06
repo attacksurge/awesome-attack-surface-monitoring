@@ -1,4 +1,4 @@
-# Awesome-Attack-Surface-Monitoring
+# Awesome Attack Surface Monitoring
 Curated list of open-source &amp; paid Attack Surface Monitoring (ASM) tools.
 
 Open Source in Alphabetical Order
