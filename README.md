@@ -1,7 +1,7 @@
 # Awesome Attack Surface Monitoring
 Curated list of open-source &amp; paid Attack Surface Monitoring (ASM) tools.
 
-Open Source in Alphabetical Order
+Free and Open Source in Alphabetical Order
 =================
 
  * [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper)
@@ -15,3 +15,14 @@ Open Source in Alphabetical Order
  * [intrigue-core](https://github.com/intrigueio/intrigue-core)
  * [natlas](https://github.com/natlas/natlas)
  * [sublert](https://github.com/yassineaboukir/sublert)
+ 
+ 
+
+Paid in Alphabetical Order
+=================
+
+
+ * [BinaryEdge Attack Surface Monitoring](https://asm.binaryedge.io)
+ * [Censys Attack Surface Management](https://censys.io/product/attack-surface-management)
+ * [SecurityTrails Attack Surface Reduction](https://securitytrails.com/attack-surface-reduction)
+ * [RiskIQ](https://www.riskiq.com/)
