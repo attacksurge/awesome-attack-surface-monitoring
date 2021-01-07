@@ -24,5 +24,5 @@ Paid in Alphabetical Order
 
  * [BinaryEdge Attack Surface Monitoring](https://asm.binaryedge.io)
  * [Censys Attack Surface Management](https://censys.io/product/attack-surface-management)
+ * [RiskIQ](https://www.riskiq.com)
  * [SecurityTrails Attack Surface Reduction](https://securitytrails.com/attack-surface-reduction)
- * [RiskIQ](https://www.riskiq.com/)
