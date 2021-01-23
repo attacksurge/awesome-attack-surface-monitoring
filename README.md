@@ -11,8 +11,10 @@ Free and Open Source in Alphabetical Order
  * [envizon](https://github.com/evait-security/envizon )
  * [intrigue-core](https://github.com/intrigueio/intrigue-core)
  * [IVRE](https://github.com/cea-sec/ivre )
+ * [jok3r framework](https://www.jok3r-framework.com)
  * [Monitorizer](https://github.com/BitTheByte/Monitorizer)
  * [natlas](https://github.com/natlas/natlas)
+ * [rengine](https://rengine.wiki/)
  * [SonarSearch](https://github.com/Cgboal/SonarSearch)
  * [sublert](https://github.com/yassineaboukir/sublert)
  
