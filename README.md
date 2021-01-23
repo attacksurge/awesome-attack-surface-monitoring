@@ -4,7 +4,7 @@ Curated list of open-source &amp; paid Attack Surface Monitoring (ASM) tools.
 Free and Open Source in Alphabetical Order
 =================
 
-A * next to the name means its noteworthy.
+I've put a * next to a small number of my favorite ASMs!
 
  * [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper)
  * [CloudFrontier](https://github.com/riskprofiler/CloudFrontier)
