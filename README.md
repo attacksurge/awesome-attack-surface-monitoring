@@ -9,6 +9,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper)
  * [CloudFrontier](https://github.com/riskprofiler/CloudFrontier)
  * [crossfeed](https://github.com/cisagov/crossfeed) *
+ * [Findomain](https://github.com/Findomain/Findomain)*
  * [docker_offensive_elk](https://github.com/marco-lancini/docker_offensive_elk)
  * [envizon](https://github.com/evait-security/envizon )
  * [intrigue-core](https://github.com/intrigueio/intrigue-core)
