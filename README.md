@@ -29,5 +29,6 @@ Paid in Alphabetical Order
 
  * [BinaryEdge Attack Surface Monitoring](https://asm.binaryedge.io) *
  * [Censys Attack Surface Management](https://censys.io/product/attack-surface-management)
+ * [RedHunt Labs Attack Surface Management - (NVADR)](https://redhuntlabs.com/)
  * [RiskIQ](https://www.riskiq.com)
  * [SecurityTrails Attack Surface Reduction](https://securitytrails.com/attack-surface-reduction)*
