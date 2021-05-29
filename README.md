@@ -10,6 +10,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [axiom](https://github.com/pry0cc/axiom) *
  * [CloudFrontier](https://github.com/riskprofiler/CloudFrontier)
  * [crossfeed](https://github.com/cisagov/crossfeed) *
+ * [django DefectDojo](https://github.com/DefectDojo/django-DefectDojo) *
  * [faraday](https://github.com/infobyte/faraday) *
  * [Findomain](https://github.com/Findomain/Findomain)*
  * [docker_offensive_elk](https://github.com/marco-lancini/docker_offensive_elk)
