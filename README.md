@@ -22,6 +22,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [natlas](https://github.com/natlas/natlas) *
  * [Osmedeus](https://github.com/j3ssie/Osmedeus)
  * [ReconNess](https://github.com/reconness/reconness)
+ * [ReconPi](https://github.com/x1mdev/ReconPi) *
  * [reNgine](https://github.com/yogeshojha/rengine) *
  * [sn0int](https://github.com/kpcyrd/sn0int) 
  * [SonarSearch](https://github.com/Cgboal/SonarSearch)
