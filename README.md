@@ -9,6 +9,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper)
  * [CloudFrontier](https://github.com/riskprofiler/CloudFrontier)
  * [crossfeed](https://github.com/cisagov/crossfeed) *
+ * [faraday](https://github.com/infobyte/faraday) *
  * [Findomain](https://github.com/Findomain/Findomain)*
  * [docker_offensive_elk](https://github.com/marco-lancini/docker_offensive_elk)
  * [envizon](https://github.com/evait-security/envizon )
@@ -17,8 +18,10 @@ I've put a * next to a small number of my favorite ASMs!
  * [jok3r framework](https://www.jok3r-framework.com)
  * [Monitorizer](https://github.com/BitTheByte/Monitorizer)
  * [natlas](https://github.com/natlas/natlas) *
+ * [Osmedeus](https://github.com/j3ssie/Osmedeus)
  * [ReconNess](https://github.com/reconness/reconness)
- * [reNgine](https://github.com/yogeshojha/rengine)*
+ * [reNgine](https://github.com/yogeshojha/rengine) *
+ * [sn0int](https://github.com/kpcyrd/sn0int) 
  * [SonarSearch](https://github.com/Cgboal/SonarSearch)
  * [sublert](https://github.com/yassineaboukir/sublert)
  
