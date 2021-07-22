@@ -11,7 +11,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [CloudFrontier](https://github.com/riskprofiler/CloudFrontier)
  * [crossfeed](https://github.com/cisagov/crossfeed) *
  * [django DefectDojo](https://github.com/DefectDojo/django-DefectDojo) *
- * [docker_offensive_elk](https://github.com/marco-lancini/docker_offensive_elk) *
+ * [docker_offensive_elk](https://github.com/marco-lancini/docker_offensive_elk) 
  * [eReKon](https://github.com/rubenkharel/eReKon)
  * [faraday](https://github.com/infobyte/faraday) *
  * [Findomain](https://github.com/Findomain/Findomain)*
@@ -24,7 +24,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [natlas](https://github.com/natlas/natlas) *
  * [Osmedeus](https://github.com/j3ssie/Osmedeus)
  * [ReconNess](https://github.com/reconness/reconness)
- * [ReconPi](https://github.com/x1mdev/ReconPi) *
+ * [ReconPi](https://github.com/x1mdev/ReconPi) 
  * [reNgine](https://github.com/yogeshojha/rengine) *
  * [sn0int](https://github.com/kpcyrd/sn0int) 
  * [SonarSearch](https://github.com/Cgboal/SonarSearch)
