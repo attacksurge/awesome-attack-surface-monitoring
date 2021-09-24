@@ -14,15 +14,15 @@ I've put a * next to a small number of my favorite ASMs!
  * [docker_offensive_elk](https://github.com/marco-lancini/docker_offensive_elk) 
  * [eReKon](https://github.com/rubenkharel/eReKon)
  * [faraday](https://github.com/infobyte/faraday) *
- * [Findomain](https://github.com/Findomain/Findomain)*
- * [envizon](https://github.com/evait-security/envizon )
+ * [Findomain](https://github.com/Findomain/Findomain) *
+ * [envizon](https://github.com/evait-security/envizon)
  * [hakluke's open source asm with spiderfoot](https://hakluke.com/open-source-asm-spiderfoot) *
  * [intrigue-core](https://github.com/intrigueio/intrigue-core)
  * [IVRE](https://github.com/cea-sec/ivre) *
  * [jok3r framework](https://www.jok3r-framework.com)
  * [Monitorizer](https://github.com/BitTheByte/Monitorizer)
  * [natlas](https://github.com/natlas/natlas) *
- * [Osmedeus](https://github.com/j3ssie/Osmedeus)
+ * [Osmedeus](https://github.com/j3ssie/Osmedeus) *
  * [ReconNess](https://github.com/reconness/reconness)
  * [ReconPi](https://github.com/x1mdev/ReconPi) 
  * [reNgine](https://github.com/yogeshojha/rengine) *
@@ -41,4 +41,5 @@ Paid in Alphabetical Order
  * [Detectify Asset Monitoring & Deep Scan](https://detectify.com/) *
  * [RedHunt Labs Attack Surface Management - (NVADR)](https://redhuntlabs.com/)
  * [RiskIQ](https://www.riskiq.com)
- * [SecurityTrails Attack Surface Reduction](https://securitytrails.com/attack-surface-reduction)*
+ * [Rumble.run](https://www.rumble.run/) *
+ * [SecurityTrails Attack Surface Reduction](https://securitytrails.com/attack-surface-reduction) *
