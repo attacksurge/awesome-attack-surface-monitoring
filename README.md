@@ -26,6 +26,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [ReconNess](https://github.com/reconness/reconness)
  * [ReconPi](https://github.com/x1mdev/ReconPi) 
  * [reNgine](https://github.com/yogeshojha/rengine) *
+ * [Rumble.run](https://www.rumble.run/) *
  * [sn0int](https://github.com/kpcyrd/sn0int) 
  * [SonarSearch](https://github.com/Cgboal/SonarSearch)
  * [sublert](https://github.com/yassineaboukir/sublert)
