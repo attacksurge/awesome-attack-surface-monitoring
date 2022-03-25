@@ -37,7 +37,7 @@ I've put a * next to a small number of my favorite ASMs!
 Paid in Alphabetical Order
 =================
 
-
+ * [Assetnote](https://assetnote.io)
  * [BinaryEdge Attack Surface Monitoring](https://asm.binaryedge.io) *
  * [Censys Attack Surface Management](https://censys.io/product/attack-surface-management) *
  * [Detectify Asset Monitoring & Deep Scan](https://detectify.com/) *
