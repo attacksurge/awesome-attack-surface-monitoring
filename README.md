@@ -8,6 +8,7 @@ I've put a * next to a small number of my favorite ASMs!
  * [archerysec](https://github.com/archerysec/archerysec) *
  * [AttackSurfaceMapper](https://github.com/superhedgy/AttackSurfaceMapper)
  * [axiom](https://github.com/pry0cc/axiom) *
+ * [CloudQuery](https://github.com/cloudquery/cloudquery)
  * [CloudFrontier](https://github.com/riskprofiler/CloudFrontier)
  * [Coalitioninc](https://control.coalitioninc.com/)
  * [crossfeed](https://github.com/cisagov/crossfeed) *
