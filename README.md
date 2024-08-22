@@ -218,6 +218,15 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Free_Vers
 <br>
 <br>
 
+<div align="center">
+    <a href="https://detectify.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/detectify.png" style="display: inline-block; vertical-align: middle;"/>
+    </a>
+    <a href="https://detectify.com/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
+</div>
+<br>
+<br>
+
 
 <div align="center">
     <a href="https://www.mandiant.com/advantage/attack-surface-management" target="_blank">
@@ -228,18 +237,18 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Free_Vers
 <br>
 
 <div align="center">
-    <a href="https://redhuntlabs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/redhuntlabs.png" style="display: inline-block; vertical-align: middle;"/>
+    <a href="https://www.recordedfuture.com/products/attack-surface-intelligence" target="_blank">
+        <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/recordedfuture.png" style="display: inline-block; vertical-align: middle;"/>
     </a>
+    <a href="https://www.recordedfuture.com/products/attack-surface-intelligence" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
 </div>
 <br>
 <br>
 
 <div align="center">
-    <a href="https://www.recordedfuture.com/products/attack-surface-intelligence" target="_blank">
-        <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/recordedfuture.png" style="display: inline-block; vertical-align: middle;"/>
+    <a href="https://redhuntlabs.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/redhuntlabs.png" style="display: inline-block; vertical-align: middle;"/>
     </a>
-    <a href="https://www.recordedfuture.com/products/attack-surface-intelligence" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
 </div>
 <br>
 <br>
