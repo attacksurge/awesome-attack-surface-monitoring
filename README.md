@@ -264,7 +264,7 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Free_Vers
     <a href="https://trickest.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/trickest.png" style="display: inline-block; vertical-align: middle;"/>
     </a>
-    <a href="https://github.com/tricket" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
+    <a href="https://github.com/trickest" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
     <a href="https://github.com/trickest" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Free_Version-Yes-green" style="display: inline-block; vertical-align: middle;"></a>
     <a href="https://github.com/trickest" target="_blank"><img alt="GitHub followers" src="https://img.shields.io/github/followers/trickest" style="display: inline-block; vertical-align: middle;"></a>
 </div>
