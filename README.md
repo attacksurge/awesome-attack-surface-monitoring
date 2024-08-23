@@ -11,6 +11,7 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Editor's%
 <a href="https://github.com/owasp-amass/amass" target="_blank">
 <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/amass.png" style="display: inline-block; vertical-align: middle;"/>
 </a>
+<a href="https://github.com/owasp-amass/amass" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
 <a href="https://github.com/owasp-amass/amass" target="_blank"><img alt="Stars" src="https://img.shields.io/github/stars/owasp-amass/amass" style="display: inline-block; vertical-align: middle;"></a>
 <a href="https://github.com/owasp-amass/amass" target="_blank"><img alt="GitHub forks" src="https://img.shields.io/github/forks/owasp-amass/amass" style="display: inline-block; vertical-align: middle;"></a>
 <a href="https://github.com/owasp-amass/amass" target="_blank"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/owasp-amass/amass" style="display: inline-block; vertical-align: middle;"></a>
@@ -213,7 +214,7 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Free_Vers
     <a href="https://censys.com/a-buyers-guide-to-attack-surface-management/" target="_blank">
         <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/censys.png" style="display: inline-block; vertical-align: middle;"/>
     </a>
-    <a href="https://github.com/runZeroInc" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
+    <a href="https://censys.com/a-buyers-guide-to-attack-surface-management/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
 </div>
 <br>
 <br>
@@ -222,7 +223,6 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Free_Vers
     <a href="https://detectify.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/detectify.png" style="display: inline-block; vertical-align: middle;"/>
     </a>
-    <a href="https://detectify.com/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
 </div>
 <br>
 <br>
@@ -235,6 +235,15 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Free_Vers
 </div>
 <br>
 <br>
+
+<div align="center">
+    <a href="https://projectdiscovery.io/platform" target="_blank">
+        <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/project-discovery-cloud-platform.png" style="display: inline-block; vertical-align: middle;"/>
+    </a>
+</div>
+<br>
+<br>
+
 
 <div align="center">
     <a href="https://www.recordedfuture.com/products/attack-surface-intelligence" target="_blank">
