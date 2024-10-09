@@ -165,6 +165,19 @@ Look for the <img alt="Static Badge" src="https://img.shields.io/badge/Editor's%
 <br>
 
 <div align="center">
+<a href="https://github.com/six2dez/reconftw" target="_blank">
+<img src="https://raw.githubusercontent.com/attacksurge/awesome-attack-surface-monitoring/main/screenshots/reconftw.png" style="display: inline-block; vertical-align: middle;"/>
+</a>
+<a href="https://github.com/six2dez/reconftw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Editor's%20Choice-Yes!-green" style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/six2dez/reconftw" target="_blank"><img alt="Stars" src="https://img.shields.io/github/stars/six2dez/reconftw" style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/six2dez/reconftw" target="_blank"><img alt="GitHub forks" src="https://img.shields.io/github/forks/six2dez/reconftw" style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/six2dez/reconftw" target="_blank"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/six2dez/reconftw" style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/six2dez/reconftw" target="_blank"><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/six2dez/reconftw" style="display: inline-block; vertical-align: middle;"></a>
+</div>
+<br>
+<br>
+
+<div align="center">
 <a href="https://github.com/yogeshojha/rengine" target="_blank">
 <img src="https://raw.githubusercontent.com/0xtavian/awesome-attack-surface-monitoring/main/screenshots/rengine.png" style="display: inline-block; vertical-align: middle;"/>
 </a>
